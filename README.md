@@ -9,6 +9,9 @@ Project Catabase ....
 * [Data coding](#data-coding)
 * [Card feeding](#card-feeding)
 * [Card reading](#card-reading)
+* [Cat feeding](#cat-feeding)
+* [Cat kneading](#cat-kneading)
+* [Using NoSqeakL](#using-nosqueakl)
 * [License](#license)
 * [Issues](#issues)
 
@@ -26,6 +29,12 @@ Lorem ipsum
 Lorem ipsum
 
 ### Card reading
+Lorem ipsum
+
+### Cat feeding
+Lorem ipsum
+
+### Cat kneading
 Lorem ipsum
 
 ### License
