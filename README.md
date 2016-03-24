@@ -13,7 +13,7 @@ In this repository you'll find the corpus of `cata` itself, as well as instructi
 * [Card reading](#card-reading)
 * [Cat feeding](#cat-feeding)
 * [Cat kneading](#cat-kneading)
-* [Using NoSqeakL](#using-nosqueakl)
+* [Using NoSqueakL](#using-nosqueakl)
 * [License](#license)
 * [Issues](#issues)
 
@@ -33,6 +33,9 @@ Lorem ipsum
 Lorem ipsum
 
 ### Cat kneading
+Lorem ipsum
+
+### Using NoSqueakL
 Lorem ipsum
 
 ### License
