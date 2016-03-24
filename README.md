@@ -3,7 +3,9 @@ Project Catabase - Powered by Formula Translation
 
 [![Build Status](https://travis-ci.org/openwhisk/openwhisk.svg?branch=master)](https://travis-ci.org/openwhisk/openwhisk)
 
-Project Catabase ....
+Project Catabase is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using Formula Translation technology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
+
+In this repository you'll find the corpus of `cata` itself, as well as instructions on how to feed, read, and analyze the data using the `NoSqeakL` tools.
 
 * [Getting started](#getting-started)
 * [Data coding](#data-coding)
@@ -16,17 +18,13 @@ Project Catabase ....
 * [Issues](#issues)
 
 ### Getting started
-The following instructions were tested on Mac OS X El Capitan, Ubuntu 14.04.3 LTS and may work on Windows using Vagrant.
-
-* [Ubuntu users](#ubuntu-users)
-* [Vagrant users on Mac and Windows PC](#vagrant-users-for-mac-and-windows)
-* [Detailed instructions for Mac developers](#alternate-instructions-for-mac-developers)
+There are several ways to make use of the data. We also invite you to contribute any of your own Formula Translation data. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ### Data coding
-Lorem ipsum
+Data is input by the cats using 80 character wide punch card media. Card stock embedded with catnip works best.
 
 ### Card feeding
-Lorem ipsum
+It's normal that encoded cards have folds, tears, and cat hair. That's why the standard provides an error correction bit that the cats can use to validate checksums. Formula Translation hardware is built in line with Postel's Law in order to process the vast ammount of imperfect data received.
 
 ### Card reading
 Lorem ipsum
