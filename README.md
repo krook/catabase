@@ -12,7 +12,6 @@ In this repository you'll find the corpus of `cata` itself, as well as instructi
 * [Getting started](#getting-started)
 * [Data coding](#data-coding)
 * [Card feeding](#card-feeding)
-* [Card reading](#card-reading)
 * [Cat feeding](#cat-feeding)
 * [Cat kneading](#cat-kneading)
 * [Using NoSqueakL](#using-nosqueakl)
@@ -27,9 +26,6 @@ Data is input by the cats using 80 character wide punch card media. Card stock e
 
 ### Card feeding
 It's normal that encoded cards have folds, tears, and cat hair. That's why the standard provides an error correction bit that the cats can use to validate checksums. Formula Translation hardware is built in line with Postel's Law in order to process the vast amount of imperfect data received.
-
-### Card reading
-Lorem ipsum.
 
 ### Cat feeding
 See owner's manual.
