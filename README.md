@@ -3,7 +3,9 @@ Project Catabase - Powered by Formula Translation
 
 [![Build Status](https://travis-ci.org/openwhisk/openwhisk.svg?branch=master)](https://travis-ci.org/openwhisk/openwhisk)
 
-__Project Catabase__ is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using __Formula Translation__ technology and the __IBM Feline Thinking__ methodology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
+__Project Catabase__ is a massive corpus of cat pictures and videos encoded and compiled by the cats themselves using __Formula Translation__ technology and the __IBM Feline Thinking__ methodology.
+
+We think you'll agree it's a revolutionary way to renew one of humankind's most valuable natural resources by employing the resource to renew itself in perpetuity.
 
 In this repository you'll find the corpus of `cata` itself, as well as instructions on how to feed, read, and analyze the data using the `NoSqeakL` tools.
 
@@ -24,19 +26,19 @@ There are several ways to make use of the data. We also invite you to contribute
 Data is input by the cats using 80 character wide punch card media. Card stock embedded with catnip works best.
 
 ### Card feeding
-It's normal that encoded cards have folds, tears, and cat hair. That's why the standard provides an error correction bit that the cats can use to validate checksums. Formula Translation hardware is built in line with Postel's Law in order to process the vast ammount of imperfect data received.
+It's normal that encoded cards have folds, tears, and cat hair. That's why the standard provides an error correction bit that the cats can use to validate checksums. Formula Translation hardware is built in line with Postel's Law in order to process the vast amount of imperfect data received.
 
 ### Card reading
 Lorem ipsum.
 
 ### Cat feeding
-Lorem ipsum.
+See owner's manual.
 
 ### Cat kneading
-Lorem ipsum.
+See owner's torn up furniture.
 
 ### Using NoSqueakL
-Lorem ipsum.
+TBD.
 
 ### License
 Copyright 2016 IBM Corporation
