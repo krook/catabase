@@ -3,7 +3,7 @@ Project Catabase - Powered by Formula Translation
 
 [![Build Status](https://travis-ci.org/openwhisk/openwhisk.svg?branch=master)](https://travis-ci.org/openwhisk/openwhisk)
 
-Project Catabase is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using Formula Translation technology and the IBM Feline Thinking methodology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
+__Project Catabase__ is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using __Formula Translation__ technology and the __IBM Feline Thinking__ methodology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
 
 In this repository you'll find the corpus of `cata` itself, as well as instructions on how to feed, read, and analyze the data using the `NoSqeakL` tools.
 
@@ -27,16 +27,16 @@ Data is input by the cats using 80 character wide punch card media. Card stock e
 It's normal that encoded cards have folds, tears, and cat hair. That's why the standard provides an error correction bit that the cats can use to validate checksums. Formula Translation hardware is built in line with Postel's Law in order to process the vast ammount of imperfect data received.
 
 ### Card reading
-Lorem ipsum
+Lorem ipsum.
 
 ### Cat feeding
-Lorem ipsum
+Lorem ipsum.
 
 ### Cat kneading
-Lorem ipsum
+Lorem ipsum.
 
 ### Using NoSqueakL
-Lorem ipsum
+Lorem ipsum.
 
 ### License
 Copyright 2016 IBM Corporation
