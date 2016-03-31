@@ -3,7 +3,7 @@ Project Catabase - Powered by Formula Translation
 
 [![Build Status](https://travis-ci.org/openwhisk/openwhisk.svg?branch=master)](https://travis-ci.org/openwhisk/openwhisk)
 
-Project Catabase is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using Formula Translation technology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
+Project Catabase is a massive corpus of cat pictures and videos compiled and annotated by the cats themselves using Formula Translation technology and the IBM Feline Thinking methodology. It's a revolutionary way to renew one of humankind's most valued resources by employing the resource to renew itself.
 
 In this repository you'll find the corpus of `cata` itself, as well as instructions on how to feed, read, and analyze the data using the `NoSqeakL` tools.
 
